@@ -1,0 +1,28 @@
+# Required Libraries for Zomato Data Analysis
+
+This project relies on the following Python libraries for data processing, analysis, and visualization. Please ensure these dependencies are installed before running the analysis.
+
+## Core Libraries
+
+- **pandas**: Used for data manipulation, cleaning, and analysis.
+- **numpy**: Essential for numerical operations and handling missing values.
+
+## Data Visualization Libraries
+
+- **matplotlib**: Provides basic plotting functionalities for static visualizations.
+- **seaborn**: Enhances data visualization with informative and attractive statistical graphics.
+
+## Jupyter Environment
+
+- **jupyter**: Required to run the Jupyter Notebook for interactive data analysis.
+
+## Installation Instructions
+
+To install all required dependencies, use the following command:
+
+```sh
+pip install pandas numpy matplotlib seaborn jupyter
+```
+
+Ensure that you have Python and pip installed before running the above command.
+
